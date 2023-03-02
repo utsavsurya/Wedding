@@ -1,0 +1,22 @@
+{
+  "name": "wedding",
+  "version": "1.0.0",
+  "description": "Main wedding app for all",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utsavsurya/Wedding.git"
+  },
+  "author": "Utsav and Bhumika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utsavsurya/Wedding/issues"
+  },
+  "homepage": "https://github.com/utsavsurya/Wedding#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
